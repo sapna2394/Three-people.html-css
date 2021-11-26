@@ -1,0 +1,77 @@
+/* css documents */
+
+body{
+    background-color: #f2f2f2;
+    color: #111111;
+}
+h1{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 50px;
+    font-family: Raleway, sans-serif !important;
+}
+.pic{
+    width: 80%;
+    height: 450px;
+    overflow: hidden;
+    padding-top: 40px;
+    margin-left: 15%;
+}
+.pic img{
+    height: 600px;
+    width: 90%;
+    padding-bottom: 5px;
+    position: center;
+    border-radius: 10px;
+}
+.container{
+    height: 350px;
+    width: 63%;
+    border: solid transparent;
+    display: flex;
+    position: relative;
+    top: -99px;
+    margin-left: 20%;
+
+}
+.item{
+    width: 60%;
+    height: 310px;
+    background-color: white;
+    border: 2px solid white;
+    margin: 15px;
+    padding: 3px;
+    border-radius: 10px;
+}
+ .Box{
+    /* margin: 45px;
+    padding: 35%;
+    width: 45%;
+    position: relative;
+    bottom: 50%; */
+
+    height: 85px;
+    width: 25%;
+    background-color: black;
+    border-radius: 8%;
+    position: relative;
+    top: -47px; 
+    margin-left: 35%;
+}
+
+img{
+    height: 50px;
+    width: 96%;
+    padding: 1px;
+    position: relative;
+    bottom: -15px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
